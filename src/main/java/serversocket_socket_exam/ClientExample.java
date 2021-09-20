@@ -1,4 +1,4 @@
-package serversocket_socket_exam01;
+package serversocket_socket_exam;
 
 import java.io.IOException;
 import java.io.InputStream;
